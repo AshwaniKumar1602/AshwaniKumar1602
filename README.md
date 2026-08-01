@@ -48,5 +48,10 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwaniKumar1602&show_icons=true&theme=dark&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniKumar1602&layout=compact&theme=dark&v=2)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AshwaniKumar1602&theme=dark)](https://git.io/streak-stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwaniKumar1602&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniKumar1602&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" height="165" />
+</p>
