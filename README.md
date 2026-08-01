@@ -51,5 +51,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AshwaniKumar1602&theme=dark)](https://git.io/streak-stats)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniKumar1602&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshwaniKumar1602&theme=dark" alt="Most Used Languages" height="180" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwaniKumar1602&theme=dark" alt="GitHub Profile Stats" height="180" />
 </p>
