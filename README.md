@@ -41,12 +41,13 @@
 ---
 
 ### 🧩 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=AshwaniKumar1602&theme=dark)](https://leetcode.com/AshwaniKumar1602)
-
----
+<p align="left">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=AshwaniKumar1602&theme=dark" alt="LeetCode Stats" height="190" />
+</p>
 
 ### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwaniKumar1602&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniKumar1602&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwaniKumar1602&show_icons=true&theme=dark" alt="GitHub Stats" height="190" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniKumar1602&layout=compact&theme=dark" alt="Top Languages" height="190" />
+</p>
