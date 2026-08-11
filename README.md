@@ -40,12 +40,6 @@
 
 ---
 
-### 🧩 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AshwaniKumar1602?theme=dark&font=inter)](https://leetcode.com/AshwaniKumar1602)
-
----
-
 ### 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AshwaniKumar1602&theme=dark)](https://git.io/streak-stats)
